@@ -10,8 +10,8 @@ Sou um desenvolvedor iOS |membro ativo do projeto Apple Developer Academy - UCB.
 
 ## Criador de Conteúdo em:
 
-- Instagram - Breve
-- Youtube - Breve
+- Instagram - embreve
+- Youtube - embreve
 
 ## Entre em Contato
 
