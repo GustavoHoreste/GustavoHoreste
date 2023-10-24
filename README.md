@@ -2,7 +2,7 @@
 
 Olá! Eu sou Gustavo Horestee, um estudante de 19 anos da Universidade Católica de Brasília. Atualmente, estou cursando a graduação em Ciência da Computação.
 
-Sou um desenvolvedor iOS |membro ativo do projeto Apple Developer Academy - UCB.
+Sou um desenvolvedor iOS e Membro ativo do projeto Apple Developer Academy - UCB.
 
 ## Tecnologias
 
